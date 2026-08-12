@@ -1,3 +1,6 @@
+//Write a C program to demonstrate the use of a nested structure for storing employee information. Define an employee structure containing empid, empname, and a nested salary structure containing basicpay, da, hra, and cca. Accept the employee details from the user, calculate the gross salary using: Gross Salary = Basic Pay + DA + HRA + CCA
+
+
 #include <stdio.h>
 
 struct salary
