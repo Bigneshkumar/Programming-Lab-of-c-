@@ -1,3 +1,6 @@
+//A college wants to maintain the academic records of its students using a C program. Each student record should contain the roll number, name, and marks obtained by the student. The college has a class of five students. Define a structure named student and create an array of structures to store the details of five students. Write a C program to: Accept the roll number, name, and marks of five students.  Display all student records in tabular form.  Calculate and display the average marks of the five students.  Identify and display the student who has obtained the highest marks.
+
+
 #include <stdio.h>
 
 struct student
