@@ -1,3 +1,5 @@
+//C Program to Declare a structure Book with the following members: bookid; bookname; author; price; year; pages; publisher Accept the input of a book and display all the book details
+
 #include <stdio.h>
 
 struct Book
